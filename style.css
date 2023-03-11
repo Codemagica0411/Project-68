@@ -1,0 +1,17 @@
+body {
+    text-align:center;
+    background-color:aqua; 
+}
+#headline_holder {
+background-color:lime;
+font-size:20px;
+}
+nav {
+    float:right;
+    text-align:right;
+    padding-left:200px;
+    padding:20px;
+    text-shadow:2px 2px black;
+    color:grey;
+    font-size:20px;
+}
